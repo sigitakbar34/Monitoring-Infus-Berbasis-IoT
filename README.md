@@ -1,5 +1,5 @@
 # Monitoring-Infus
-List komponen:
+## List komponen:
 1. ESP32 Devkit V1
 2. Sensor Load Cell 1 Kg
 3. Module HX711
